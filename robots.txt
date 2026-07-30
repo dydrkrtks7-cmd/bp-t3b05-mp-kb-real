@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangam-shirts-note.infonest.online/sitemap.xml
+Sitemap: https://sangam-shirts-note.infonest.online/sitemap-pages.xml
